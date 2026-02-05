@@ -17,7 +17,6 @@
     <string name="no_contacts_with_emails">Nem található e-mailt tartalmazó névjegy</string>
     <string name="no_contacts_with_phone_numbers">Nem található telefonszámot tartalmazó névjegy</string>
     <string name="new_contact">Új névjegy</string>
-    <string name="edit_contact">Névjegy módosítása</string>
     <string name="select_contact">Névjegy kiválasztása</string>
     <string name="nickname">Becenév</string>
     <string name="no_groups">Nincsenek csoportok</string>
@@ -34,9 +33,6 @@
     <string name="show_phone_numbers">Telefonszámok megjelenítése</string>
     <string name="show_contact_thumbnails">Névjegyek bélyegképének megjelenítése</string>
     <string name="show_dialpad_button">Tárcsázó gomb megjelenítése a főképernyőn</string>
-    <string name="on_contact_click">Névjegyre kattintásra</string>
-    <string name="call_contact">Telefonhívás indítása</string>
-    <string name="view_contact">Névjegy részleteinek megjelenítése</string>
     <string name="manage_shown_contact_fields">Megjelenítendő névjegymezők kezelése</string>
     <string name="contacts">Névjegyek</string>
     <string name="show_only_contacts_with_numbers">Csak a telefonszámot tartalmazó névjegyek megjelenítése</string>
@@ -77,4 +73,12 @@
     <string name="faq_1_text">Igen, csak menjen a Beállítások -&gt; Megjelenítendő névjegymezők kezelése menüponthoz. Itt kiválaszthatja a megjelenítendő mezőket. Néhány már alapértelmezés szerint sem jelenik meg, így más, új mezőket is találhat itt.</string>
     <string name="show_private_contacts">Privát névjegyek megjelenítése a Fossify Telefon, a Fossify Üzenetek és a Fossify Naptár számára</string>
     <string name="format_phone_numbers">Telefonszámok formázása</string>
+    <string name="street">Utca</string>
+    <string name="neighborhood">Apartman vagy lakosztály száma</string>
+    <string name="city">Város</string>
+    <string name="postcode">Irányítószám</string>
+    <string name="pobox">Postafiók</string>
+    <string name="region">Állam</string>
+    <string name="country">Ország</string>
+    <string name="select_account">Fiók kiválasztása</string>
 </resources>
